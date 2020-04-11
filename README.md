@@ -1,7 +1,8 @@
 # OpenCore 0.5+ part patch
 
 > August 26 update
-[Daliansky's guide Translated into English](https://github.com/daliansky/OC-little)
+[Daliansky's guide](https://github.com/daliansky/OC-little)
+[Translated into English by jsassu20](https://github.com/jsassu20/OpenCore-HotPatching-Guide)
 ## Description
 
 Make this part patch according to the requirements and recommendations of OpenCore 0.5
